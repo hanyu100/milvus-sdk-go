@@ -11,6 +11,7 @@ import (
 
 // basic milvus operation example
 func main() {
+        // hello word
 	// Milvus instance proxy address, may verify in your env/settings
 	milvusAddr := `localhost:19530`
 
